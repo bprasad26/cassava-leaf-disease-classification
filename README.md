@@ -7,7 +7,7 @@ And the existing methods of disease detection require farmers to solicit the hel
 
 In this project, a dataset of 21,367 labeled images are used which is collected during a regular survey in Uganda by Makerere University. Most images were crowdsourced from farmers taking photos of their gardens, and annotated by experts at the National Crops Resources Research Institute (NaCRRI). This is in a format that most realistically represents what farmers would need to diagnose in real life.
 
-Your task is to classify each cassava image into four disease categories or a fifth category indicating a healthy leaf. With your help, farmers may be able to quickly identify diseased plants, potentially saving their crops before they inflict irreparable damage.
+The goal of the project is to classify each cassava image into four disease categories or a fifth category indicating a healthy leaf. A better model will help farmers to quickly identify diseased plants,and potentially save their crops before they inflict irreparable damage.
 
 ### Dataset
 
